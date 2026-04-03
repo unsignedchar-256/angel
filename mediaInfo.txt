@@ -1,0 +1,6 @@
+
+sampling rate	44100 Hz
+bit depth	24 bits
+channels	2
+endianness	little endian (LE)
+byte order	interleaved
